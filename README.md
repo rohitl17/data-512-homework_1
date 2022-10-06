@@ -1,7 +1,7 @@
-# data-512-homework_1
+# data-512-homework_1: Professionalism & Reproducibility
 This repository has assignment for DATA-512 - Human Centered Design Homework 1.
 
-# Professionalism & Reproducibility : Goal
+## Goal
 
 The project aims at acquiring, constructing, analyzing and publishing a dataset and analysis from a subset of wikipedia pages. The goal is to follow best practices in scientific research not only from the coding but also the documentation stanspoint which entails reproducing workflows referring to the articles "Assessing Reproducibility" and "The Basic Reproducible Workflow Template" from The Practice of Reproducible Research.
 
@@ -25,7 +25,7 @@ The data for this project is extracted from the Pageviews API. The Pageviews API
 
 The code has been accustomed to handle any exceptions occurring with regards to data manipulation operations. Also, if the URL or article titles do not exist, the code wouldn't break and is entirely reproducible. As of now, everything just works fine and we have all the relevant information
 
-## Repository Structure:
+## Repository Structure
 Here are the main folders in our github data-512-homework_1 repository:
 ```bash
 .
@@ -41,9 +41,9 @@ Here are the main folders in our github data-512-homework_1 repository:
 │   ├── dino_monthly_desktop_201507-202209.json
 │   └── dino_monthly_mobile_201507-202209.json
 ├── plots
-│   ├── max_min_average_views.png
+│   ├── top_max_min_average_views.png
 │   ├── top_ten_peak_page_views.png
-│   └── articles_with_fewest_months_data.png
+│   └── articles_with_fewest_data_monthly.png
 ```
 ## JSON Outputs
 
