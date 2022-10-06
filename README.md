@@ -28,7 +28,7 @@ The code has been accustomed to handle any exceptions occurring with regards to 
 ## Repository Structure
 Here are the main folders in our github data-512-homework_1 repository:
 ```bash
-.
+
 ├── DATA512-Homework_1_RohitLokwani.ipynb
 ├── README.md
 ├── LICENSE
