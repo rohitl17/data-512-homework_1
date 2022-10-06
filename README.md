@@ -55,13 +55,13 @@ dino_monthly_cumulative_201507-202209.json - JSON file that contains the cumulat
 
 
 ### Data Fields
-project - Source of data 
-article - Title of the article 
-granularity - Time period for Cumulative data 
-timestamp - Time checkpoint for data 
-agent - type of views 
-views - Views between two timestamps as per the specified granularity 
-Note: Access types are mentioned on the filenames
+project - Source of data.   
+article - Title of the article.  
+granularity - Time period for Cumulative data.  
+timestamp - Time checkpoint for data. 
+agent - type of views.  
+views - Views between two timestamps as per the specified granularity.  
+Note: Access types are mentioned on the filenames. 
 
 #### Sample
 {
