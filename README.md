@@ -40,7 +40,7 @@ Here are the main folders in our github data-512-homework_1 repository:
 │   ├── dino_monthly_cumulative_201507-202209.json
 │   ├── dino_monthly_desktop_201507-202209.json
 │   └── dino_monthly_mobile_201507-202209.json
-├── plots
+├── plotted_graphs
 │   ├── top_max_min_average_views.png
 │   ├── top_ten_peak_page_views.png
 │   └── articles_with_fewest_data_monthly.png
