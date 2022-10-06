@@ -76,6 +76,6 @@ Note: Access types are mentioned on the filenames.
 ### Languages used: Python
 
 ## Other References
-Rokem, Marwick, and Staneva. Assessing Reproducibility in Kitzes, J., Turek, D., & Deniz, F. (Eds.). (2018). The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences. Oakland, CA: University of California Press. 
+Rokem, Marwick, and Staneva. [Assessing Reproducibility](http://www.practicereproducibleresearch.org/core-chapters/2-assessment.html) in Kitzes, J., Turek, D., & Deniz, F. (Eds.). (2018). The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences. Oakland, CA: University of California Press. 
 
-Kitzes. The Basic Reproducible Workflow Template in Kitzes, J., Turek, D., & Deniz, F. (Eds.). (2018). The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences. Oakland, CA: University of California Press. 
+Kitzes. [The Basic Reproducible Workflow Template](http://www.practicereproducibleresearch.org/core-chapters/3-basic.html) in Kitzes, J., Turek, D., & Deniz, F. (Eds.). (2018). The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences. Oakland, CA: University of California Press. 
